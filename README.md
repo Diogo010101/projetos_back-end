@@ -15,6 +15,6 @@ Para mais informações sobre cada projeto, basta clicar no link do repositório
 
 |Projeto|Tecnologias|Repositório
 |-----|-----|-----
-sistema_bancario|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Link do Repositório]([https://github.com/Diogo010101/codelab_jordan/tree/main](https://github.com/Diogo010101/sistema_bancario) / [Demo] N/A|
+sistema_bancario|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|[Link do Repositório]([https://github.com/Diogo010101/sistema_bancario]) / [Demo] N/A|
 
 
